@@ -1,0 +1,2 @@
+ nasm -f elf64 helo.asm
+ ld -o helo helo.o
